@@ -3,6 +3,8 @@ public class Sample {
         System.out.println("Hey Maa");
         System.out.println("Hey Maa, I love you Maaaaaa");
         System.out.println("Hey Maa, I love you Maaaaaa");
+
+        System.out.println("Hey Maa, I love you Maaaaaa");
     //Should be done better way
     }
 }
