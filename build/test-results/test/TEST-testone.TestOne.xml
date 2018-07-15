@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testone.TestOne" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-15T17:26:19" hostname="MASARADA" time="0.116">
+  <properties/>
+  <testcase name="testOne" classname="testone.TestOne" time="0.116"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 34484
+Only local connections are allowed.
+Jul 15, 2018 10:26:11 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
