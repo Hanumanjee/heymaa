@@ -11,4 +11,37 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.12.0'
+    testCompile  group: 'org.testng', name: 'testng', version: '6.14.2'
+    compile group: 'com.paulhammant', name: 'ngwebdriver', version: '1.1.3'
+    compile group: 'com.itextpdf', name: 'itextpdf', version: '5.5.13'
+    compile group: 'org.eclipse.birt.runtime.3_7_1', name: 'com.lowagie.text', version: '2.1.7'
+    compile group: 'javax.mail', name: 'javax.mail-api', version: '1.6.1'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '3.12.0'
+
+
+    //=====================for excel reader=========================
+    compile group: 'org.apache.poi', name: 'poi', version: '3.17'
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.17'
+    compile group: 'org.apache.poi', name: 'poi-ooxml-schemas', version: '3.17'
+    compile group: 'org.apache.poi', name: 'poi-scratchpad', version: '3.17'
+    compile group: 'org.apache.poi', name: 'ooxml-schemas', version: '1.3'
+    compile group: 'org.apache.poi', name: 'openxml4j', version: '1.0-beta'
+
+    // ===================for excel reader=================
+
+
+
+
+
+}
+test {
+    useTestNG() {
+        useDefaultListeners = true
+        suites "src/test/resources/testng.xml"
+
+        ignoreFailures = true
+        // options.suites("src/test/resources/testng.xml")
+    }
+    reports.html.enabled = false
 }
