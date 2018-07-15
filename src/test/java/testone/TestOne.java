@@ -23,9 +23,11 @@ public class TestOne {
     public void testOne(){
         driver.findElement(By.xpath("//*[@id='menu-new-menu']/li[5]/a/span")).click();
     }
+    @Test
     public void testTwo(){
         driver.findElement(By.xpath("//*[@id='menu-new-menu']/li[5]/a/span")).click();
     }
+    @Test
     public void testThree(){
         driver.findElement(By.xpath("//*[@id='menu-new-menu']/li[5]/a/span")).click();
     }

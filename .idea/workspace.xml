@@ -3,10 +3,50 @@
   <component name="ChangeListManager">
     <list id="b2db60d1-9557-4a97-a64a-2cd21a7717d4" name="Default" comment="" />
     <list default="true" id="5d4750ea-2ab2-407d-b46e-b51a26d02b00" name="Revert: add a line" comment="test">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/testone/TestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Maa-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Suite1/all-tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Suite1/all-tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-testone.TestOne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/all-tests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Suite1/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testone.TestOne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testone/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testone/TestOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -59,10 +99,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestOne.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestOne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testone/TestOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="194">
               <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+            <state relative-caret-position="211">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -106,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/runbatch1.bat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -628,7 +668,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Maa [build]">
+  <component name="RunManager" selected="TestNG.TestOne">
     <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sample" />
       <module name="Maa_main" />
@@ -776,8 +816,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.testone" />
         <item itemvalue="TestNG.TestOne" />
+        <item itemvalue="TestNG.testone" />
         <item itemvalue="Gradle.Maa [clean]" />
         <item itemvalue="Gradle.Maa [build]" />
         <item itemvalue="Application.Sample" />
@@ -964,7 +1004,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531682539875</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="test">
+      <created>1531683551565</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1531683551565</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -987,12 +1034,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.019169329" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.56709266" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4025559" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.08146965" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27685326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23071104" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3174114" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.22012103" />
@@ -1096,13 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1119,13 +1159,13 @@
     <entry file="file://$PROJECT_DIR$/runbatch1.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testone/TestOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
+        <state relative-caret-position="194">
           <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1138,6 +1178,13 @@
             <element signature="e#704#705#0" expanded="true" />
             <element signature="e#725#726#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
